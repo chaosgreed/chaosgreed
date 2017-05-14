@@ -1,0 +1,50 @@
+<ItemPools>
+	<Pool Name="treasure">
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="shop">
+	<Pool Name="boss"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="devil"/>
+	<Pool Name="angel"/>
+	<Pool Name="secret"/>
+	<Pool Name="library"/>
+	<Pool Name="challenge"/>
+	<Pool Name="goldenChest"/>
+	<Pool Name="redChest"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="beggar"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="demonBeggar"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="curse"/>
+	<Pool Name="keyMaster"/>
+	<Pool Name="bossrush"/>
+	<Pool Name="dungeon"/>
+	<Pool Name="greedTreasure">
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="greedBoss"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="greedShop">
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="greedCurse"/>
+	<Pool Name="greedDevil"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="greedAngel"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="greedLibrary"/>
+	<Pool Name="greedSecret"/>
+	<Pool Name="greedGoldenChest"/>
+<Item Name="Larval Therapy" Weight="1" RemoveOn="0.1" DecreaseBy="1"/>
+	</Pool>
+	<Pool Name="bombBum"/>
+</ItemPools>
